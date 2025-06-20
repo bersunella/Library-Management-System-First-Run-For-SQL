@@ -1,0 +1,1 @@
+SHOW TRIGGERS FROM library_db;
